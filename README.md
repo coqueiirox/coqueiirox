@@ -1,7 +1,7 @@
 Hello, i am Coqueiirox 🖐️
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=coqueiirox&show_icons=true&theme=merko&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api?username=coqueiirox&show_icons=true&theme=gruvbox&count_private=true)
 
 ## Languages that i know
 
