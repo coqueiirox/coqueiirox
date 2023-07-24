@@ -14,4 +14,4 @@ Hello, i am Coqueiirox 🖐️
   
 </div><br/>
 
-Currently sharpening my skills in Java, Python, C++, Lua, and JavaScript. Everyday's a learning day in the life of a coder.
+Currently sharpening my skills, Everyday's a learning day in the life of a coder.
