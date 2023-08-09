@@ -14,4 +14,3 @@ Hello, i am Coqueiirox 🖐️
   
 </div><br/>
 
-Currently sharpening my skills, Everyday's a learning day in the life of a coder.
