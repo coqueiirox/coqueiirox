@@ -1,8 +1,11 @@
 Hello, I'm Coqueiirox 🖐️
 
 🌎 I'm from 🇧🇷  
-🎂 I'm 14 years old  
-🕰️ Brasília Time Zone (GMT-3)
+🎂 My Birthday: January 16th  
+
+<p align="center">
+  <a href="https://coqueiirox.github.io/web-site/">Click me</a>
+</p>
 
 ![Coqueiirox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coqueiirox&show_icons=true&theme=tokyonight&count_private=true)
 
