@@ -7,6 +7,7 @@ Hello, I'm Coqueiirox 🖐️
   <a href="https://coqueiirox.github.io/web-site/">Click me</a>
 </p>
 
+
 ![Coqueiirox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coqueiirox&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Programming Languages I Work With
